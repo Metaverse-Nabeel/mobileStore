@@ -55,7 +55,7 @@ const Details = ({ route }: DetailsProps) => {
 
 const styles = StyleSheet.create({
     container: {
-        paddingHorizontal: 18,
+        paddingHorizontal: 20,
         backgroundColor: '#FFFFFF',
     },
     image: {
